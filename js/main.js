@@ -2,7 +2,11 @@
  * Abstract - Main JS
  *
  * ------------------------------------------------------------------- */ 
+<<<<<<< HEAD
 /*I believe doing everything that makes me more human  */
+=======
+
+>>>>>>> 90ea95a6896ad171d9c592710d9d1aee40bf31fd
 (function($) {
 
 	"use strict";
@@ -16,7 +20,11 @@
 		
 	$WIN = $(window);
 
+<<<<<<< HEAD
 /*I believe doing everything that makes me more human  */
+=======
+
+>>>>>>> 90ea95a6896ad171d9c592710d9d1aee40bf31fd
 	/* Preloader 
 	 * -------------------------------------------------- */
 	var ssPreloader = function() {
@@ -40,7 +48,11 @@
 			features: ['playpause','progress', 'tracks','volume']
 	  	});
 	};
+<<<<<<< HEAD
 /*I believe doing everything that makes me more human  */
+=======
+
+>>>>>>> 90ea95a6896ad171d9c592710d9d1aee40bf31fd
 
 	/* FitVids
 	------------------------------------------------------ */ 
@@ -69,7 +81,11 @@
 
   	};	   
 
+<<<<<<< HEAD
 /*I believe doing everything that makes me more human  */
+=======
+
+>>>>>>> 90ea95a6896ad171d9c592710d9d1aee40bf31fd
 	/* superfish
 	 * -------------------------------------------------- */  
 	var ssSuperFish = function() {
@@ -83,7 +99,11 @@
 		});
 	};
 
+<<<<<<< HEAD
 	/*I believe doing everything that makes me more human  */
+=======
+	
+>>>>>>> 90ea95a6896ad171d9c592710d9d1aee40bf31fd
   	/* Mobile Menu
    ------------------------------------------------------ */ 
    var ssMobileNav = function() {
@@ -114,7 +134,11 @@
 
    }; 
    
+<<<<<<< HEAD
 /*I believe doing everything that makes me more human  */
+=======
+
+>>>>>>> 90ea95a6896ad171d9c592710d9d1aee40bf31fd
   /* search
    ------------------------------------------------------ */ 
    var ssSearch = function() {
@@ -165,7 +189,11 @@
    };
 	 
 
+<<<<<<< HEAD
 /*I believe doing everything that makes me more human  */
+=======
+
+>>>>>>> 90ea95a6896ad171d9c592710d9d1aee40bf31fd
 	/*	Masonry
 	------------------------------------------------------ */
 	var ssMasonryFolio = function() {
@@ -182,7 +210,11 @@
 
 		});
 	};
+<<<<<<< HEAD
 /*I believe doing everything that makes me more human  */
+=======
+
+>>>>>>> 90ea95a6896ad171d9c592710d9d1aee40bf31fd
 
   /* animate bricks
 	* ------------------------------------------------------ */
@@ -209,7 +241,11 @@
 		});
 
 	};
+<<<<<<< HEAD
 	/*I believe doing everything that makes me more human  */	
+=======
+		
+>>>>>>> 90ea95a6896ad171d9c592710d9d1aee40bf31fd
 
   /* Flex Slider
 	* ------------------------------------------------------ */
@@ -257,7 +293,11 @@
 	   });
 	};	
 
+<<<<<<< HEAD
 /*I believe doing everything that makes me more human  */
+=======
+
+>>>>>>> 90ea95a6896ad171d9c592710d9d1aee40bf31fd
   /* Smooth Scrolling
 	* ------------------------------------------------------ */
 	var ssSmoothScroll = function() {
@@ -284,7 +324,11 @@
 
 	};
 
+<<<<<<< HEAD
 /*I believe doing everything that makes me more human  */
+=======
+
+>>>>>>> 90ea95a6896ad171d9c592710d9d1aee40bf31fd
   /* Placeholder Plugin Settings
 	* ------------------------------------------------------ */
 	var ssPlaceholder = function() {
@@ -345,7 +389,11 @@
 		});
 	};	
 
+<<<<<<< HEAD
 /*I believe doing everything that makes me more human  */
+=======
+
+>>>>>>> 90ea95a6896ad171d9c592710d9d1aee40bf31fd
   /* Map
 	* ------------------------------------------------------ */
 	var ssGoogleMap = function() { 
