@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:ror="http://rorweb.com/0.1/" >
+<channel>
+  <title>ROR Sitemap for http://www.poshan.com.np/</title>
+  <link>http://www.poshan.com.np/</link>
+
+<item>
+     <link>http://poshan.com.np/</link>
+     <title>Poshan:Articles</title>
+     <description>I am Poshan Pandey. This is my articles section.</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>0</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://poshan.com.np/home.html</link>
+     <title>Poshan Pandey</title>
+     <description>Poshan Pandey</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://poshan.com.np/flutter.html</link>
+     <title>Why to chose Flutter?</title>
+     <description>I am Poshan Pandey. This is my articles section.</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://poshan.com.np/toc.html</link>
+     <title>Poshan:TermsofCondition</title>
+     <description>I am Poshan Pandey. This is my resume section.</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://poshan.com.np/privacypolicy.html</link>
+     <title>Poshan:PrivacyPolicy</title>
+     <description>I am Poshan Pandey. This is my resume section.</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://poshan.com.np/diversity.html</link>
+     <title>Poshan:Diversity Statement</title>
+     <description>I am Poshan Pandey. This is my resume section.</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://poshan.com.np/index.html</link>
+     <title>Poshan:Articles</title>
+     <description>I am Poshan Pandey. This is my articles section.</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://poshan.com.np/Poshan-Resume.html</link>
+     <title>Poshan:Resume</title>
+     <description>I am Poshan Pandey. This is my resume section.</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+</channel>
+</rss>
+  
