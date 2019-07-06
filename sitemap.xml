@@ -19,12 +19,17 @@
 <url>
   <loc>http://poshan.com.np/flutter.html</loc>
   <lastmod>2019-07-05T14:27:06+00:00</lastmod>
-  <priority>0.80</priority>
+  <priority>0.90</priority>
 </url>
 <url>
-  <loc>http://poshan.com.np/flutter.html</loc>
+  <loc>http://poshan.com.np/gsc.html</loc>
   <lastmod>2019-07-06T00:01:06+00:00</lastmod>
-  <priority>0.80</priority>
+  <priority>0.90</priority>
+</url>
+<url>
+  <loc>http://poshan.com.np/seositemap.html</loc>
+  <lastmod>2019-07-06T09:33:06+00:00</lastmod>
+  <priority>0.90</priority>
 </url>
 <url>
   <loc>http://poshan.com.np/toc.html</loc>
