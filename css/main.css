@@ -855,13 +855,6 @@ input::-moz-focus-inner {
 
 /* animation stuff - (_common-styles.scss) 
  * ------------------------------------------------------------------- */
-.js .animate-this {
-	opacity: 0;
-}
-.oldie .animate-this
-.no-cssanimations .animate-this {
-	opacity: 1;
-}
 
 /* masonry entries - (_common-styles.scss) 
  * ------------------------------------------------------------------- */
@@ -1212,8 +1205,8 @@ input::-moz-focus-inner {
 .format-link .entry-thumb {
 	display: table;
 	background: #FFFFFF;
-	padding: 1.8rem 2.8rem 3rem;
-	min-height: 324px;
+	padding: 0.8rem 2rem 2.2rem;
+	min-height: 150px;
 	width: 100%;
 	position: relative;
 }
@@ -1239,6 +1232,7 @@ input::-moz-focus-inner {
 .format-quote blockquote,
 .format-link .link-wrap {
 	display: table-cell;
+	font-size: 3rem;
 	margin: 0;
 	padding-left: 0;
 	vertical-align: middle;
@@ -1248,7 +1242,7 @@ input::-moz-focus-inner {
 .format-link .link-wrap p {
 	font-family: "montserrat-bold", sans-serif;
 	padding: 6rem 0 0 0;
-	font-size: 2.2rem;
+	font-size: 3rem;
 	line-height: 1.636;
 }
 
@@ -1295,34 +1289,6 @@ input::-moz-focus-inner {
 	color: #000000;
 	border-bottom: 1px solid rgba(0, 0, 0, 0.2);
 }
-
-/* format video
- * --------------------------------------- */
-.format-video .entry-thumb a {
-	cursor: zoom-in;
-	display: block;
-	position: relative;
-}
-
-.format-video .entry-thumb a img {
-	vertical-align: bottom;
-}
-
-.format-video .entry-thumb a::before {
-	content: "\e998";
-	position: absolute;
-	top: 50%;
-	left: 50%;
-	font-family: "icomoon";
-	font-size: 8rem;
-	border-radius: 50%;
-	color: white;
-	-webkit-transform: translate(-50%, -50%);
-	-ms-transform: translate(-50%, -50%);
-	transform: translate(-50%, -50%);
-	cursor: zoom-in;
-}
-
 
 /* ===================================================================
  *  09. aboutme button - (_layout.scss)
@@ -2173,6 +2139,7 @@ header .logo a {
 	width: 100%;
 	background: #151515;
 }
+
 
 /* responsive: 
 /* bricks masonry
