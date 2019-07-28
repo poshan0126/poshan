@@ -1,66 +1,243 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset
-      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
-            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
-
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
 
 <url>
-  <loc>http://poshan.com.np/</loc>
-  <lastmod>2019-07-05T14:27:06+00:00</lastmod>
-  <priority>1.00</priority>
-</url>
-<url>
-  <loc>http://poshan.com.np/home.html</loc>
-  <lastmod>2019-07-05T14:27:06+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>http://poshan.com.np/Googlemlkit.html</loc>
-  <lastmod>2019-07-13T14:21:06+00:00</lastmod>
-  <priority>0.90</priority>
-</url>
-<url>
-  <loc>http://poshan.com.np/flutter.html</loc>
-  <lastmod>2019-07-05T14:27:06+00:00</lastmod>
-  <priority>0.90</priority>
-</url>
-<url>
-  <loc>http://poshan.com.np/gsc.html</loc>
-  <lastmod>2019-07-06T00:01:06+00:00</lastmod>
-  <priority>0.90</priority>
-</url>
-<url>
-  <loc>http://poshan.com.np/seositemap.html</loc>
-  <lastmod>2019-07-06T09:33:06+00:00</lastmod>
-  <priority>0.90</priority>
-</url>
-<url>
-  <loc>http://poshan.com.np/toc.html</loc>
-  <lastmod>2019-07-05T14:27:06+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>http://poshan.com.np/privacypolicy.html</loc>
-  <lastmod>2019-07-05T14:27:06+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>http://poshan.com.np/diversity.html</loc>
-  <lastmod>2019-07-05T14:27:06+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>http://poshan.com.np/index.html</loc>
-  <lastmod>2019-07-05T14:27:06+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>http://poshan.com.np/Poshan-Resume.html</loc>
-  <lastmod>2019-07-05T14:27:06+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
 
+    <loc>http://www.poshan.com.np</loc>
+
+
+
+    <lastmod>2019-07-28</lastmod>
+
+    <changefreq>monthly</changefreq>
+
+    <priority>0.5</priority>
+
+</url>  
+
+<url>
+
+    <loc>http://www.poshan.com.np/</loc>
+
+
+
+    <lastmod>2019-07-28</lastmod>
+
+    <changefreq>monthly</changefreq>
+
+    <priority>0.5</priority>
+
+</url>  
+
+<url>
+
+    <loc>http://www.poshan.com.np/index.html</loc>
+
+
+
+    <lastmod>2019-07-28</lastmod>
+
+    <changefreq>monthly</changefreq>
+
+    <priority>0.5</priority>
+
+</url>  
+
+<url>
+
+    <loc>http://www.poshan.com.np/home.html</loc>
+
+
+
+    <lastmod>2019-07-28</lastmod>
+
+    <changefreq>monthly</changefreq>
+
+    <priority>0.5</priority>
+
+</url>  
+
+<url>
+
+    <loc>http://www.poshan.com.np/poshan-resume.html</loc>
+
+
+
+    <lastmod>2019-07-28</lastmod>
+
+    <changefreq>monthly</changefreq>
+
+    <priority>0.5</priority>
+
+</url>  
+
+<url>
+
+    <loc>http://www.poshan.com.np/photography.html</loc>
+
+
+
+    <lastmod>2019-07-28</lastmod>
+
+    <changefreq>monthly</changefreq>
+
+    <priority>0.5</priority>
+
+</url>  
+
+<url>
+
+    <loc>http://www.poshan.com.np/flutter.html</loc>
+
+
+
+    <lastmod>2019-07-28</lastmod>
+
+    <changefreq>monthly</changefreq>
+
+    <priority>0.5</priority>
+
+</url>  
+
+<url>
+
+    <loc>http://www.poshan.com.np/seositemap.html</loc>
+
+
+
+    <lastmod>2019-07-28</lastmod>
+
+    <changefreq>monthly</changefreq>
+
+    <priority>0.5</priority>
+
+</url>  
+
+<url>
+
+    <loc>http://www.poshan.com.np/gsc.html</loc>
+
+
+
+    <lastmod>2019-07-28</lastmod>
+
+    <changefreq>monthly</changefreq>
+
+    <priority>0.5</priority>
+
+</url>  
+
+<url>
+
+    <loc>http://www.poshan.com.np/media/one</loc>
+
+
+
+    <lastmod>2019-07-28</lastmod>
+
+    <changefreq>monthly</changefreq>
+
+    <priority>0.5</priority>
+
+</url>  
+
+<url>
+
+    <loc>http://www.poshan.com.np/www.poshan.com.np</loc>
+
+
+
+    <lastmod>2019-07-28</lastmod>
+
+    <changefreq>monthly</changefreq>
+
+    <priority>0.5</priority>
+
+</url>  
+
+<url>
+
+    <loc>http://www.poshan.com.np/googlemlkit.html</loc>
+
+
+
+    <lastmod>2019-07-28</lastmod>
+
+    <changefreq>monthly</changefreq>
+
+    <priority>0.5</priority>
+
+</url>  
+
+<url>
+
+    <loc>http://www.poshan.com.np/articles.html</loc>
+
+
+
+    <lastmod>2019-07-28</lastmod>
+
+    <changefreq>monthly</changefreq>
+
+    <priority>0.5</priority>
+
+</url>  
+
+<url>
+
+    <loc>http://www.poshan.com.np/toc.html</loc>
+
+
+
+    <lastmod>2019-07-28</lastmod>
+
+    <changefreq>monthly</changefreq>
+
+    <priority>0.5</priority>
+
+</url>  
+
+<url>
+
+    <loc>http://www.poshan.com.np/privacypolicy.html</loc>
+
+
+
+    <lastmod>2019-07-28</lastmod>
+
+    <changefreq>monthly</changefreq>
+
+    <priority>0.5</priority>
+
+</url>  
+
+<url>
+
+    <loc>http://www.poshan.com.np/diversity.html</loc>
+
+
+
+    <lastmod>2019-07-28</lastmod>
+
+    <changefreq>monthly</changefreq>
+
+    <priority>0.5</priority>
+
+</url>  
+
+<url>
+
+    <loc>http://www.poshan.com.np/cdn-cgi/l/email-protection</loc>
+
+
+
+    <lastmod>2019-07-28</lastmod>
+
+    <changefreq>monthly</changefreq>
+
+    <priority>0.5</priority>
+
+</url>  
 
 </urlset>
